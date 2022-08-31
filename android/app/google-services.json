@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "88088818559",
+    "project_id": "tashteeb-eg",
+    "storage_bucket": "tashteeb-eg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88088818559:android:97c3b90bca239a5f72204a",
+        "android_client_info": {
+          "package_name": "com.tashteeb.tashteeb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88088818559-skfv5sv47eftm3sfb2di81tdj0ljiadr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgRjx7FgCvOxoRKoLE-Ss-2qZ3KMsqzZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88088818559-skfv5sv47eftm3sfb2di81tdj0ljiadr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "88088818559-v72oo810r7b2b9vp4r9b5ddd86p48tau.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tashteeb.tashteeb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
